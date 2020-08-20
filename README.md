@@ -20,7 +20,7 @@
 
 https://people.csail.mit.edu/hubert/pyaudio/
 
-## Lengauge
+## Lenguaje
 > Python
 
 ## Autor
