@@ -8,6 +8,8 @@
 * brew install portaudio (with mac)
 * python -m pip install --upgrade pip setuptools wheel
 * vev/bin/active
+* pip install speechrecognition
+* pip install pyttsx3
 
 ## Palabras Clave
 ##### what is your name
@@ -15,6 +17,8 @@
 ##### search
 ##### find the location
 ##### finish
+
+https://people.csail.mit.edu/hubert/pyaudio/
 
 ## Lengauge
 > Python
